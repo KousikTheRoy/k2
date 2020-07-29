@@ -27,14 +27,14 @@ When victim enter his credentials, you need to go to original website and use th
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/KousikTheRoy/k2.git
 * cd AdvPhishing/
 * chmod 777 start.sh
 * ./start.sh
 * ./An-AdvPhishing.sh
 
 # INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/KousikTheRoy/k2.git
 * cd AdvPhishing/
 * chmod 777 setup.sh
 * ./setup.sh
@@ -60,7 +60,7 @@ When victim enter his credentials, you need to go to original website and use th
 
 # Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : contact@kousikroy.com
 
 # DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
@@ -68,12 +68,12 @@ When victim enter his credentials, you need to go to original website and use th
 The use of the Adv-Phishing is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
 
 # Paypal
-https://www.paypal.com/paypalme2/Goyal827
+https://www.paypal.com/paypalme2/#
 
 # Social Media
 ![7A2DEEE6-232A-4D65-B42C-17E46828C8FB](https://user-images.githubusercontent.com/55870659/78220320-242b4580-7476-11ea-9dcf-2309f138098d.png)
-  # * [LinkedIn](https://www.linkedin.com/in/shubham-goyal-sgpro)  
-  # * [Youtube](https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q) 
-  # * [Facebook](https://www.facebook.com/profile.php?id=100016971998117)
+  # * [LinkedIn](#)  
+  # * [Youtube](#) 
+  # * [Facebook](#)
 
 
